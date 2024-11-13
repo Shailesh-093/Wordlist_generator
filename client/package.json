@@ -36,4 +36,11 @@
       "last 1 safari version"
     ]
   }
+  {
+  "scripts": {
+    "build": "react-scripts build"
+
+  }
+}
+
 }
